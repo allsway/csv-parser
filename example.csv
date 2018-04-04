@@ -1,11 +1,11 @@
-ID,Address,Business Name,State,Zip Code,Website
+ID,Website,Business Name,State,Zip Code,Website
 1,225 Bush St,Radius,CA,99104,www.radius.com
 2,225 Bush St,Radius,CA,99104,www.radius.com
 3,225 Bush St,Radius,CA,99104,www.radius.com
 4,225 Bush St,Radius,CA,99104,www.radius.com
 5,225 Bush St,Radius,CA,99104,www.radius.com
 6,225 Bush St,Radius,CA,99104,www.radius.com
-7,225 Bush St,Radius,CA,99104,www.radius.com
+7,225 Bush St ®,Radius,CA,99104,www.radius.com
 8,225 Bush St,Radius,CA,99104,www.radius.com
 9,225 Bush St,Radius,CA,99104,www.radius.com
 10,225 Bush St,Radius,CA,99104,www.radius.com
@@ -220,5 +220,5 @@ ID,Address,Business Name,State,Zip Code,Website
 208,225 Bush St,Radius,CA,99104,www.radius.com
 209,225 Bush St,Radius,CA,99104,www.radius.com
 210,225 Bush St,Radius,CA,99104,www.radius.com
-211,225 Bush St,Radius,CA,99104,www.radius.com
+212,223 Bush St,Radius,CA,99104,www.radius.com
 212,225 Bush St,Radius,CA,99104,www.radius.com
